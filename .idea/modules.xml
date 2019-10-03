@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/IdeaStartTimePlugin.iml" filepath="$PROJECT_DIR$/IdeaStartTimePlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaStartTimePlugin.iml" filepath="$PROJECT_DIR$/.idea/IdeaStartTimePlugin.iml" />
     </modules>
   </component>
 </project>
