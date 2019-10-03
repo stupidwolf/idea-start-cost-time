@@ -1,8 +1,8 @@
 <idea-plugin>
   <id>xyz.stupidwolf.plugins.idea.start-cost-time</id>
   <name>idea-start-cost-time</name>
-  <version>1.0</version>
-  <vendor email="stupiedwolf@gmail.com" url="https://github.com/stupidwolf/idea-start-cost-time">github repository</vendor>
+  <version>0.0.1</version>
+  <vendor email="stupiedwolf@gmail.com" url="https://github.com/stupidwolf/idea-start-cost-time">stupidwolf@github.com</vendor>
 
   <description><![CDATA[
       A idea plugin to calculate the cost time during your idea starting up.<br>
