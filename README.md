@@ -1,0 +1,1 @@
+A idea plugin to calculate the cost time during your idea starting up.

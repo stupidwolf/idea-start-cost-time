@@ -1,0 +1,34 @@
+<idea-plugin>
+  <id>xyz.stupidwolf.plugins.idea.start-cost-time</id>
+  <name>idea-start-cost-time</name>
+  <version>1.0</version>
+  <vendor email="stupiedwolf@gmail.com" url="https://github.com/stupidwolf/idea-start-cost-time">github repository</vendor>
+
+  <description><![CDATA[
+      A idea plugin to calculate the cost time during your idea starting up.<br>
+    ]]></description>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <!-- uncomment to enable plugin in all products
+  <depends>com.intellij.modules.lang</depends>
+  -->
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+  <application-components>
+    <component>
+      <implementation-class>xyz.stupidwolf.plugins.idea.StartCostTimeComponent</implementation-class>
+    </component>
+  </application-components>
+
+</idea-plugin>
